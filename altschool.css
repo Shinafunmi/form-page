@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.nav_links{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   list-style-type: none;
+   gap: 30px;
+   margin-right: 250px;
+   
+}
+nav{
+    color: #0000;
+}
+
+.para{
+    background-color: rgb(103, 114, 229);
+    color: white;
+    font-size: 0.875em;
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+nav{
+    /* color: black; */
+    font-family: sans-serif;
+
+}
+
+
+.logo{
+    margin-right: 250px;
+}
+
+h3{
+    text-align: center;
+    padding: 16px;
+    font-family: sans-serif;
+    font-size: 2em;
+    font-weight: 500;
+}
+
+.container{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height:  1.5rem;   
+    font-size: larger;
+}
+p{
+    text-align: center;
+    padding: 1.5rem;
+    font-weight: normal;
+    font-size: large;
+    font-family: sans-serif;
+}
+.mark{
+    color:rgb(103, 114, 229) ;
+    
+}
+
+.container-item {
+    text-align: center;
+    
+}
+.item{
+    width: 450px;
+    height: 80px;
+    margin: 1rem;
+}
+input{
+    padding: 16px 24px;
+}
+
+.agreement {
+    padding: 70px;
+}
+
+
+
+
+  
